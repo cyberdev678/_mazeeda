@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cyberdev678
+- 👋 Hi, I’m @_mazeeda
 - 👀 I’m interested in Data analysis and cybersecurity
 - 🌱 I’m currently learning security tools
 - 💞️ I’m looking to collaborate on data analysis projects
